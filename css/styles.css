@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #0056b3; /* just for some style */
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
